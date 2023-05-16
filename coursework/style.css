@@ -1,0 +1,12 @@
+.active {
+    color: red;
+    font-weight: 700;
+    text-decoration: none;
+}
+.sendsms,form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+}
